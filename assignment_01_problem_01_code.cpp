@@ -1,4 +1,4 @@
-//name : khadiga
+//name : khadiga mohamed 
 //id: 20216283
 #include <iostream>
 using namespace std;
